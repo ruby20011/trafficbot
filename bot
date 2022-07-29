@@ -4,18 +4,18 @@ import webbrowser
 import time
 x = 1
 while True:
-  webbrowser.open('http://url/')
-  time.sleep(15)
-	webbrowser.open_new_tab('http://url/')
-	time.sleep(10)
-	webbrowser.open_new_tab('http://url/')
-	time.sleep(10)	
-	webbrowser.open_new_tab('http://url/')
-	time.sleep(10)
-	webbrowser.open_new_tab('http://url/')
-	time.sleep(10)	
-	webbrowser.open_new_tab('http://url/')
-	time.sleep(10)
+  webbrowser.open('https://ruby20011.github.io/')
+  time.sleep(105)
+	webbrowser.open_new_tab('https://ruby20011.github.io/')
+	time.sleep(30)
+	webbrowser.open_new_tab('https://ruby20011.github.io/')
+	time.sleep(30)	
+	webbrowser.open_new_tab('https://ruby20011.github.io/')
+	time.sleep(30)
+	webbrowser.open_new_tab('https://ruby20011.github.io/')
+	time.sleep(30)	
+	webbrowser.open_new_tab('https://ruby20011.github.io/')
+	time.sleep(30)
 	x +=1
 	
 	
